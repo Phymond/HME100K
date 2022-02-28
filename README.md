@@ -9,7 +9,7 @@ The data were collected from tens of thousands of writers who wrote the MEs on p
 
 ### Examples
 
-Blur https://github.com/Phymond/HME100K/blob/main/examples/blur.jpg
+![Blur](https://github.com/Phymond/HME100K/blob/main/examples/blur.jpg)
 
 
 ### How to download
