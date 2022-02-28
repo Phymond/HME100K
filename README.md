@@ -9,8 +9,15 @@ The data were collected from tens of thousands of writers who wrote the MEs on p
 
 ### Examples
 
-<img width="500" alt="examples" src="./examples/examples.png">
+![Examples](https://github.com/Phymond/HME100K/blob/main/examples/examples.png)
+
 
 ### How to download
 
+Please send an email to HME100K@hotmail.com with the following information. Then we will send the data to your email later.
+
+    Name:
+    Email:
+    School/Company:
+    Job:
 
