@@ -9,7 +9,7 @@ The data were collected from tens of thousands of writers who wrote the MEs on p
 
 ### Examples
 
-<img width="300" alt="teaser" src="./examples/blur.jpg">
+<img width="500" alt="teaser" src="./examples/examples.png">
 
 ### How to download
 
