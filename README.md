@@ -14,10 +14,39 @@ The data were collected from tens of thousands of writers who wrote the MEs on p
 
 ### How to download
 
-Please send an email to HME100K@hotmail.com with the following information. Then we will send the data to your email later.
+You can download the dataset from the official website: https://ai.100tal.com/dataset
 
-    Name:
-    Email:
-    School/Company:
-    Job:
+```
+HME100K
+    |
+    |---train
+    |       |---train_images
+    |       |
+    |       |---train_labels.txt
+    |
+    |---test
+    |       |---test_images
+    |       |
+    |       |---test_labels.txt
+    |
+    |---subset
+            |---easy.json
+            |
+            |---medium.json
+            |
+            |---hard.json
 
+```
+
+### Citation
+
+If you find this dataset helpful for your research, please cite the following papers:
+
+```
+@article{yuan2022syntax,
+  title={Syntax-Aware Network for Handwritten Mathematical Expression Recognition},
+  author={Yuan, Ye and Liu, Xiao and Dikubab, Wondimu and Liu, Hui and Ji, Zhilong and Wu, Zhongqin and Bai, Xiang},
+  journal={arXiv preprint arXiv:2203.01601},
+  year={2022}
+}
+```
