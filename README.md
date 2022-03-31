@@ -40,7 +40,7 @@ HME100K
 
 ### Citation
 
-If you find this dataset helpful for your research, please cite the following papers:
+If you find this dataset helpful for your research, please cite the following paper:
 
 ```
 @article{yuan2022syntax,
